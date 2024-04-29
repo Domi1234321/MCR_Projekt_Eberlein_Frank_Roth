@@ -52,4 +52,4 @@ Das Protokoll ermöglicht eine einfache und zuverlässige Steuerung der LEDs an 
 
 
 
-Zur Auswertung der UART Schnittstelle Taste A betätigen.
+Zur Abfrage des LED-Status der Slaves Taste A auf der Tastatur betätigen.
